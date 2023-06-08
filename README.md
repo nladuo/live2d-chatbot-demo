@@ -28,6 +28,8 @@ python live2d_display_server.py
 python chatbot_demo.py
 ```
 
+### 5. 打开浏览器
+打开浏览器输入http://127.0.0.1:4800/ ，查看虚拟形象。
 
 ## 代码目录
 - scripts文件夹：声音分析
