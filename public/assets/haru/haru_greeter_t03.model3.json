@@ -1,0 +1,36 @@
+{
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "haru_greeter_t03.moc3",
+    "Textures": [
+      "haru_greeter_t03.2048/texture_00.png",
+      "haru_greeter_t03.2048/texture_01.png"
+    ],
+    "Expressions": [
+      
+    ],
+    "Motions": {
+      
+    }
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    }
+  ],
+  "HitAreas": [
+    {
+      "Id": "HitArea",
+      "Name": "Head"
+    },
+    {
+      "Id": "HitArea2",
+      "Name": "Body"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+gtts
+librosa
+pygame
+numpy
+flask
+revChatGPT

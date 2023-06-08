@@ -1,0 +1,21 @@
+{
+  "name": "live2d-display-control",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "jquery": "^3.7.0",
+    "pixi-live2d-display": "^0.4.0",
+    "pixi.js": "6.5.9",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.1.0",
+    "vite": "^4.3.9"
+  }
+}
