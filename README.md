@@ -7,8 +7,7 @@ A live2D Chatbot Demo build with python and js.
 ## 使用说明
 
 ### 1. 安装依赖
-依赖见：requirements.txt
-
+见：requirements.txt
 
 ### 2. 配置ChatGPT
 
@@ -28,3 +27,9 @@ python live2d_display_server.py
 ```
 python chatbot_demo.py
 ```
+
+
+## 代码目录
+- scripts文件夹：声音分析
+- src：前端js代码
+- index.html：前端html
